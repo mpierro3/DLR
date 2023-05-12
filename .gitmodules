@@ -1,0 +1,6 @@
+[submodule "HPST"]
+	path = HPST
+	url = https://github.com/VasuLab/HPST
+[submodule "KnightShock"]
+	path = KnightShock
+	url = https://github.com/VasuLab/KnightShock
